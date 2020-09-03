@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "*",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
